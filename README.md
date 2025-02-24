@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A simple Body Mass Index (BMI) Calculator built using **Flutter**. This project allows users to calculate their BMI based on their weight and height, and it provides feedback on their health status (e.g., underweight, normal, overweight).
+A simple Body Mass Index (BMI) Calculator built using **Flutter**. This project allows users to calculate their BMI based on their weight and height, and it provides feedback on their health status (e.g., underweight, normal, overweight). this app live on play stor      ->       "https://play.google.com/store/apps/details?id=com.devglim.bmi_calculator&hl=en"
 
 ---
 
@@ -16,10 +16,12 @@ A simple Body Mass Index (BMI) Calculator built using **Flutter**. This project 
 ## Screenshots
 
 #### Home Screen
-![Home Screen](https://your-image-link.com/home.png)
-
+![Home Screen](bmi1.jpeg)
+![Home Screen](bmi2.jpeg)
 #### Results Screen
-![Results Screen](https://your-image-link.com/results.png)
+![Home Screen](bmi3.jpeg)
+![Home Screen](bmi4.jpeg)
+![Home Screen](bmi5.jpeg)
 
 ---
 
